@@ -1,0 +1,15 @@
+.navbar {
+    height: 100px;
+        
+}
+
+.search_bar {
+    height: 50px;
+    border: 2px solid black; /* Red border */
+    border-radius: 8px; /* Rounded corners */
+    background-color: #F5F5F5; /* Light gray background */
+}
+
+.textborder {
+    border-radius: 15px;
+}
